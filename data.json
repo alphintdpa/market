@@ -1,0 +1,90 @@
+[
+    {
+        "Slno" : "1",
+        "Name"  : "Milk",
+        "Quantity":"3",
+        "Unit": "Litre",
+        "Department":"Frozen",
+        "Notes":"Milma"
+
+
+    },
+    {"Slno" : "2",
+        "Name"  : "Carrots",
+        "Quantity":"1",
+        "Unit": "kg",
+        "Department":"Vegetables",
+        "Notes":"Fresh"
+
+    },
+    {"Slno" : "3",
+    "Name"  : "Broccoli",
+    "Quantity":"3",
+    "Unit": "Number",
+    "Department":"Vehetables",
+    "Notes":"Fresh"
+
+    },
+    {
+        "Slno" : "4",
+        "Name"  : "Grapes",
+        "Quantity":"1",
+        "Unit": "kg",
+        "Department":"Fruits",
+        "Notes":"Greem"  
+    },
+    {  "Slno" : "5",
+        "Name"  : "Eggs",
+        "Quantity":"15",
+        "Unit": "Number",
+        "Department":"Egg",
+        "Notes":"Chicken"
+
+    },
+    {
+        "Slno" : "6",
+        "Name"  : "Noodles",
+        "Quantity":"3",
+        "Unit": "Packet",
+        "Department":"Snacks",
+        "Notes":"Maggi"
+    },
+    {
+        "Slno" : "7",
+        "Name"  : "Rice",
+        "Quantity":"10",
+        "Unit": "Kg",
+        "Department":"Essentials",
+        "Notes":"Pavizham"
+    },
+    {
+        "Slno" : "8",
+        "Name"  : "Salt",
+        "Quantity":"2",
+        "Unit": "kg",
+        "Department":"Essentials",
+        "Notes":"Ionized"
+    },
+    {
+        "Slno" : "9",
+        "Name"  : "Oil",
+        "Quantity":"1",
+        "Unit": "Packet",
+        "Department":"Essentials",
+        "Notes":"Sunflower"
+       
+    },
+    {
+        "Slno" : "10",
+        "Name"  : "Bread",
+        "Quantity":"2",
+        "Unit": "Packets",
+        "Department":"Snack",
+        "Notes":" Check Expriry  and mfd"
+    }
+    
+
+
+
+
+]
